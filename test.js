@@ -1,2 +1,2 @@
 const test = "test";
-allert (hello world);
+allert (Привіт);
